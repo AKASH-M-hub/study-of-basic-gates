@@ -71,11 +71,13 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by: Akash M
  
+
  RegisterNumber: 24900103
  
 **Logic symbol & Truthtable**
 
-![WhatsApp Image 2024-12-09 at 08 12 24_67bf6286](https://github.com/user-attachments/assets/b07f7522-d82d-41d4-9995-18e0c675b11c)
+![Screenshot 2024-12-13 084257](https://github.com/user-attachments/assets/f76b3551-c912-4465-ab64-a3c4865ad4c5)
+
 
 **RTL realization Output:** 
 
